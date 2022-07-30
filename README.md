@@ -22,3 +22,9 @@
 **Nasıl Kullanılır?**
 
 https://youtu.be/xIGERvIjZyU
+
+
+
+**Kullandığım NuGet Paketleri**
+- Guna.UI2.WinForms
+- FireSharp
